@@ -2,7 +2,7 @@
 Name: John Giaquinto
 CS230: Section 3
 Data: NCAA Stadiums
-URL: https://share.streamlit.io/jgia/streamlit
+URL: https://share.streamlit.io/jgia/streamlit/main/GiaquintoCS230FinalProject.py
 
 Description: This program uses Streamlit to display 5 maps/charts/graphs. The first is an interactive map of each NCAA stadium and their respective capacities
 using pydeck. The next is a bar chart of the average stadium capacity by NCAA conference. The user can use checkboxes to select which NCAA conferences to include
